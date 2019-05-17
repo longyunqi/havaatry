@@ -3,7 +3,7 @@
   <groupId>com.ithiemademo</groupId>
   <artifactId>demo_web</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-
+   <!--我也是一个冲突对象，，看你怎么解决-->
    <properties>		
 		<spring.version>4.2.4.RELEASE</spring.version>
    </properties>
